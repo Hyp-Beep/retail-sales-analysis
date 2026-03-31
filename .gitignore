@@ -1,0 +1,11 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+*.log
+
+# 数据文件（可选，避免上传大文件）
+*.db
+*.sqlite
+*.csv
+*.xlsx
